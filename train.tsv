@@ -1,0 +1,56 @@
+성별을 선택하세요.	boolean
+남성 또는 여성인지 고르세요.	boolean
+서비스 이용에 동의하십니까?	boolean
+약관에 동의하십니까?	boolean
+참여 여부를 클릭하세요.	boolean
+동의 여부를 표시해 주세요.	boolean
+구독을 원하시면 선택하세요.	boolean
+정보 제공에 동의하시면 체크하세요.	boolean
+알림 수신을 원하시면 클릭하세요.	boolean
+마케팅 메시지 수신 동의 여부를 고르세요.	boolean
+이름을 입력해주세요.	string
+이메일 주소를 작성해 주세요.	string
+휴대폰 번호를 입력하세요.	string
+주소를 상세히 기입해 주세요.	string
+회사명을 입력해 주십시오.	string
+블로그 URL을 적어주세요.	string
+관심 분야를 자유롭게 서술해 주세요.	string
+간단한 자기소개를 작성해 주세요.	string
+추가 요청 사항을 입력해 주세요.	string
+기타 의견을 작성해 주세요.	string
+나이를 숫자로 입력하세요.	integer
+만 나이를 숫자만으로 기입해 주세요.	integer
+주문 수량을 입력해주세요.	integer
+몇 명이 참석하나요? 숫자로 작성하세요.	integer
+반려동물 수를 입력하세요.	integer
+경험 연수를 입력하세요 (년).	integer
+가족 구성원 수를 입력해 주세요.	integer
+옵션 개수를 숫자로 적어 주세요.	integer
+설문 참여 횟수를 입력해 주세요.	integer
+지원 횟수를 숫자로 입력하세요.	integer
+키를 cm 단위로 입력하세요.	float
+상품 가격을 소수점 둘째 자리까지 입력하세요.	float
+평균 속도를 소수점으로 입력하세요 (km/h).	float
+평균 온도를 소수점 한 자리까지 입력하세요.	float
+평균 별점(소수)으로 작성해 주세요.	float
+할인율을 0~1 사이로 입력하세요.	float
+RPM 수치를 소수로 입력하세요.	float
+이자율을 소수점 셋째 자리까지 입력하세요.	float
+평균 매출액을 소수로 입력하세요.	float
+평균 대기 시간을 소수로 적어 주세요.	float
+결제 수단을 하나 선택하세요.	checkbox_single
+관심 카테고리를 하나 고르세요.	checkbox_single
+배송 옵션을 하나 클릭하세요.	checkbox_single
+선호 좌석을 하나 선택해 주세요.	checkbox_single
+당첨 번호 하나를 고르세요.	checkbox_single
+원하는 색상을 하나만 선택하세요.	checkbox_single
+프로필 사진 유형을 하나 고르세요.	checkbox_single
+추천 알고리즘을 하나 선택하세요.	checkbox_single
+관심 있는 주제를 모두 체크하세요.	checkbox_multi
+선호하는 장르를 모두 선택하세요.	checkbox_multi
+추가 기능을 전부 선택해 주세요.	checkbox_multi
+희망 근무지를 모두 고르세요.	checkbox_multi
+관심 지역을 모두 체크해 주세요.	checkbox_multi
+즐겨 찾는 메뉴를 모두 선택하세요.	checkbox_multi
+참여 가능한 일정을 모두 클릭하세요.	checkbox_multi
+사용 가능한 결제 수단을 모두 선택하세요.	checkbox_multi

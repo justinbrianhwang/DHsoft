@@ -1,0 +1,11 @@
+numpy<2
+opencv-python
+pdf2image
+easyocr
+pandas
+scikit-learn
+joblib
+onnxruntime
+skl2onnx
+onnxmltools
+PyYAML
