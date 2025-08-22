@@ -1,0 +1,72 @@
+﻿page,category,question_type,is_table_item,reference_text,question_id
+1,,date_input,False,서면 동의일   |___|___| / |___|___| / |___|___| yy/mm/dd,auto_1
+6,,multiple_choice,True,또 진단여부,None_1_또
+6,,text_input,False,만_____ 세,auto_2
+6,,text_input,False,만_____ 세,auto_1
+6,,multiple_choice,True,갑상선질환 진단여부,None_1_갑상선질환
+6,,text_input,False,만_____ 세,auto_2
+6,,text_input,False,만_____ 세,auto_1
+7,,text_input,False,만_____ 세,auto_1
+7,,multiple_choice,True,십이지장궤 진단여부,None_1_십이지장궤
+7,,text_input,False,만_____ 세,auto_2
+7,,text_input,False,만_____ 세,auto_1
+7,,text_input,False,만_____ 세,auto_1
+8,,text_input,False,만_____ 세,auto_1
+8,,text_input,False,만_____ 세,auto_2
+8,,multiple_choice,True,담 진단여부,None_1_담
+8,,text_input,False,만_____ 세,auto_2
+8,,text_input,False,만_____ 세,auto_1
+8,,text_input,False,만_____ 세,auto_1
+9,,text_input,False,만_____ 세,auto_1
+9,,text_input,False,만_____ 세,auto_1
+9,,text_input,False,만_____ 세,auto_1
+9,,text_input,False,만_____ 세,auto_1
+10,,text_input,False,만_____ 세,auto_1
+10,,text_input,False,만_____ 세,auto_1
+10,,text_input,False,만_____ 세,auto_1
+10,,text_input,False,만_____ 세,auto_1
+11,,text_input,False,만_____ 세,auto_1
+11,,multiple_choice,True,전립선비대 진단여부,None_1_전립선비대
+11,,text_input,False,만_____ 세,auto_2
+11,,text_input,False,만_____ 세,auto_1
+11,,text_input,False,만_____ 세,auto_1
+12,가족력,text_input,True,3. 가족력,가족력_1
+12,,text_input,True,① 아니요 ①부 ②모 만 ___세,auto_1
+12,,text_input,True,①부 ②모 만 ___세,auto_1
+12,,text_input,True,①부 ②모 만 ___세,auto_1
+12,,text_input,True,① 아니요 ①부 ②모 만 ___세,auto_1
+12,,text_input,True,①부 ②모 만 ___세,auto_1
+13,,text_input,False,①부 ②모 만 ___세,auto_1
+13,,multiple_choice,True,고지혈증 진단여부,None_1_고지혈증
+13,,text_input,False,①부 ②모 만 ___세,auto_1
+13,,text_input,False,①부 ②모 만 ___세,auto_1
+13,,multiple_choice,True,아니요 진단여부,None_1_아니요
+13,,text_input,False,①부 ②모 만 ___세,auto_1
+13,,text_input,False,①부 ②모 만 ___세,auto_1
+14,,multiple_choice,True,심근경색 진단여부,None_1_심근경색
+14,,text_input,False,①부 ②모 만 ___세,auto_1
+14,,text_input,False,①부 ②모 만 ___세,auto_1
+14,,multiple_choice,True,폐결핵 진단여부,None_1_폐결핵
+14,,text_input,False,①부 ②모 만 ___세,auto_1
+14,,text_input,False,①부 ②모 만 ___세,auto_1
+14,,multiple_choice,True,갑상선질환 진단여부,None_1_갑상선질환
+14,,text_input,False,만 ___세,auto_1
+15,,text_input,False,①부 ②모 만 ___세,auto_1
+15,,multiple_choice,True,만성위염 진단여부,None_1_만성위염
+15,,text_input,False,①부 ②모 만 ___세,auto_1
+15,,text_input,False,①부 ②모 만 ___세,auto_1
+15,,multiple_choice,True,아니요 진단여부,None_1_아니요
+15,,text_input,False,①부 ②모 만 ___세,auto_1
+15,,text_input,False,①부 ②모 만 ___세,auto_1
+16,,multiple_choice,True,아니요 진단여부,None_1_아니요
+16,,text_input,False,①부 ②모 만 ___세,auto_1
+16,,text_input,False,①부 ②모 만 ___세,auto_1
+16,,multiple_choice,True,아니요 진단여부,None_1_아니요
+16,,text_input,False,①부 ②모 만 ___세,auto_1
+16,,text_input,False,①부 ②모 만 ___세,auto_1
+16,,text_input,False,□ 귀하의 형제 관계는 어떻게 되십니까? (본인 포함)  __ 남 __ 녀 중 ___,auto_1
+17,,text_input,False,□ 귀하의 자녀는 몇 명입니까? ___ 남 _____녀,auto_1
+17,우울증선별,text_input,False,4. 우울증 선별도구 (PHQ-9),우울증선별_1
+17,,yes_no,False,지난 한 달 동안 가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?,auto_1
+17,,text_input,False,____월 _____일부터 ____월 ____일까지 그 기간 중에 아래와 같은 생각을 한 날을 헤아려서 해당하는,auto_1
+17,,scale,False,2-6일 7일 거의,auto_1

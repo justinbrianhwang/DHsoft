@@ -1,0 +1,98 @@
+﻿page,category,matched,similarity,cer,wer,accuracy,gpt_confidence,ref_question,ocr_question,question_type,is_table_item,ocr_only
+1,동의 취득,False,0.0,,,,,연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?,,yes_no,False,False
+1,동의 취득,False,0.0,,,,,서면 동의일,,date_input,False,False
+1,,False,0.0,,,,,,연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까? □ 예 □ 아니오,,False,True
+1,,False,0.0,,,,,,a. 연구대상자동의서를 받기 이전에는 본 연구의 어떠한 절차도 시작되어서는 안 된다.,,False,True
+1,,False,0.0,,,,,,b. Previous medication 은 동의서 취득 전 1 개월 이내에 사용한 약물만을 조사하여 기록한다.,,False,True
+1,,False,0.0,,,,,,c. 이상반응은 첫 시험관련 절차(즉 연구대상자동의서 서명일) 이후부터 마지막 평가일 까지 조사한다,,False,True
+2,선정기준,False,0.0,,,,,19세 이상 성인,,yes_no,False,False
+2,선정기준,False,0.0,,,,,Cerebrovascular disease 진단 여부,,yes_no,False,False
+2,선정기준,False,0.0,,,,,Cerebrovascular disease 가족력 여부,,yes_no,False,False
+2,선정기준,False,0.0,,,,,,,yes_no,False,False
+2,선정기준,False,0.0,,,,,,,yes_no,False,False
+2,제외기준,False,0.0,,,,,정신질환의 병력,,yes_no,False,False
+2,제외기준,False,0.0,,,,,두부 외상의 병력,,yes_no,False,False
+2,제외기준,False,0.0,,,,,암의 병력,,yes_no,False,False
+2,제외기준,False,0.0,,,,,,,yes_no,False,False
+2,제외기준,False,0.0,,,,,,,yes_no,False,False
+2,평가,False,0.0,,,,,연구대상자 선정기준 및 제외기준에 대한 평가 결과 이 지원자는 임상연구에 참여할 수 있습니까?,,yes_no,False,False
+2,,False,0.0,,,,,,1. 19세 이상 성인,,False,True
+2,,False,0.0,,,,,,2. Cerebrovascular disease 진단 여부,,False,True
+2,,False,0.0,,,,,,5. Yes No □,,False,True
+2,,False,0.0,,,,,,"1. 정신질환의 병력 Yes □, No □",,False,True
+2,,False,0.0,,,,,,2. 두부 외상의 병력,,False,True
+2,,False,0.0,,,,,,3. 암의 병력,,False,True
+2,,False,0.0,,,,,,"5. Yes □, No □",,False,True
+2,,False,0.0,,,,,,□ 예 □ 아니오,,False,True
+2,가족력,False,0.0,,,,,,3. Cerebrovascular disease 가족력 여부,,False,True
+3,인구학적특성,False,0.0,,,,,성별,,single_choice,False,False
+3,인구학적특성,False,0.0,,,,,생년월일,,date_input,False,False
+3,인구학적특성,False,0.0,,,,,체중,,text_input,False,False
+3,인구학적특성,False,0.0,,,,,신장,,text_input,False,False
+3,인구학적특성,False,0.0,,,,,흡연 여부,,single_choice,False,False
+3,인구학적특성,False,0.0,,,,,음주 여부,,single_choice,False,False
+3,인구학적특성,False,0.0,,,,,결혼 상태,,single_choice,False,False
+3,인구학적특성,False,0.0,,,,,,1. 일반인구학적 특성,,False,True
+3,,False,0.0,,,,,,1) 성별: 1남성 2여성,,False,True
+3,,False,0.0,,,,,,2) 생년월일: /_□ yy/mm/dd,,False,True
+3,,False,0.0,,,,,,3) 체중:,,False,True
+3,,False,0.0,,,,,,4) 흡연 여부,,False,True
+3,,False,0.0,,,,,,5) 음주 여부,,False,True
+3,,False,0.0,,,,,,6) 결혼 상태,,False,True
+4,인구학적특성,False,0.0,,,,,월 평균 수입,,single_choice,False,False
+4,인구학적특성,False,0.0,,,,,학력,,single_choice,False,False
+4,,False,0.0,,,,,,7) 월 평균 수입,,False,True
+4,,False,0.0,,,,,,8) 학력,,False,True
+5,질병력,False,0.0,,,,,고혈압 진단여부,,single_choice,True,False
+5,질병력,False,0.0,,,,,고혈압 처음 진단받은 나이,,text_input,True,False
+5,질병력,False,0.0,,,,,고혈압 치료 경과,,single_choice,True,False
+5,질병력,False,0.0,,,,,당뇨병 진단여부,,single_choice,True,False
+5,질병력,False,0.0,,,,,당뇨병 처음 진단받은 나이,,text_input,True,False
+5,질병력,False,0.0,,,,,당뇨병 치료 경과,,single_choice,True,False
+5,질병력,False,0.0,,,,,고지혈증 진단여부,,single_choice,True,False
+5,질병력,False,0.0,,,,,고지혈증 처음 진단받은 나이,,text_input,True,False
+5,질병력,False,0.0,,,,,고지혈증 치료 경과,,single_choice,True,False
+5,질병력,False,0.0,,,,,뇌졸중(중풍) 진단여부,,single_choice,True,False
+5,질병력,False,0.0,,,,,뇌졸중(중풍) 처음 진단받은 나이,,text_input,True,False
+5,질병력,False,0.0,,,,,뇌졸중(중풍) 치료 경과,,single_choice,True,False
+5,질병력,False,0.0,,,,,,2. 질병력,,False,True
+6,질병력,False,0.0,,,,,협심증 또는 심근경색증 진단여부,,single_choice,True,False
+6,질병력,False,0.0,,,,,협심증 또는 심근경색증 진단 시 나이,,text_input,True,False
+6,질병력,False,0.0,,,,,협심증 또는 심근경색증 치료 상태,,single_choice,True,False
+6,질병력,False,0.0,,,,,폐결핵 진단여부,,single_choice,True,False
+6,질병력,False,0.0,,,,,폐결핵 진단 시 나이,,text_input,True,False
+6,질병력,False,0.0,,,,,폐결핵 치료 상태,,single_choice,True,False
+6,질병력,False,0.0,,,,,갑상선질환 진단여부,,single_choice,True,False
+6,질병력,False,0.0,,,,,갑상선질환 유형,,single_choice,True,False
+6,질병력,False,0.0,,,,,갑상선질환 진단 시 나이,,text_input,True,False
+6,질병력,False,0.0,,,,,갑상선질환 치료 상태,,single_choice,True,False
+6,질병력,False,0.0,,,,,만성위염 진단여부,,single_choice,True,False
+6,질병력,False,0.0,,,,,만성위염 진단 시 나이,,text_input,True,False
+6,질병력,False,0.0,,,,,만성위염 치료 상태,,single_choice,True,False
+7,질병력,False,0.0,,,,,위궤양 진단여부,,single_choice,True,False
+7,질병력,False,0.0,,,,,위궤양 진단 시 나이,,text_input,True,False
+7,질병력,False,0.0,,,,,위궤양 치료 상태,,single_choice,True,False
+7,질병력,False,0.0,,,,,십이지장궤양 진단여부,,single_choice,True,False
+7,질병력,False,0.0,,,,,십이지장궤양 진단 시 나이,,text_input,True,False
+7,질병력,False,0.0,,,,,십이지장궤양 치료 상태,,single_choice,True,False
+7,질병력,False,0.0,,,,,장 폴립 진단여부,,single_choice,True,False
+7,질병력,False,0.0,,,,,장 폴립 진단 시 나이,,text_input,True,False
+7,질병력,False,0.0,,,,,장 폴립 치료 상태,,single_choice,True,False
+7,질병력,False,0.0,,,,,급성 간질환 진단여부,,single_choice,True,False
+7,질병력,False,0.0,,,,,급성 간질환 진단 시 나이,,text_input,True,False
+7,질병력,False,0.0,,,,,급성 간질환 치료 상태,,single_choice,True,False
+8,질병력,False,0.0,,,,,지방간 진단여부,,single_choice,True,False
+8,질병력,False,0.0,,,,,지방간 진단 시 나이,,text_input,True,False
+8,질병력,False,0.0,,,,,지방간 치료 상태,,single_choice,True,False
+8,질병력,False,0.0,,,,,"만성간염, 간경변 진단여부",,single_choice,True,False
+8,질병력,False,0.0,,,,,"만성간염, 간경변 진단 시 나이",,text_input,True,False
+8,질병력,False,0.0,,,,,"만성간염, 간경변 치료 상태",,single_choice,True,False
+8,질병력,False,0.0,,,,,"담석증, 담낭염 진단여부",,single_choice,True,False
+8,질병력,False,0.0,,,,,"담석증, 담낭염 진단 시 나이",,text_input,True,False
+8,질병력,False,0.0,,,,,"담석증, 담낭염 치료 상태",,single_choice,True,False
+8,질병력,False,0.0,,,,,만성기관지염 진단여부,,single_choice,True,False
+8,질병력,False,0.0,,,,,만성기관지염 진단 시 나이,,text_input,True,False
+8,질병력,False,0.0,,,,,만성기관지염 치료 상태,,single_choice,True,False
+8,질병력,False,0.0,,,,,만성 폐쇄성 폐질환 진단여부,,single_choice,True,False
+8,질병력,False,0.0,,,,,만성 폐쇄성 폐질환 진단 시 나이,,text_input,True,False
+8,질병력,False,0.0,,,,,만성 폐쇄성 폐질환 치료 상태,,single_choice,True,False

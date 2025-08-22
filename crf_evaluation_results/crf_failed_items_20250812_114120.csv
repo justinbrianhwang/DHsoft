@@ -1,0 +1,76 @@
+﻿page,category,question_type,is_table_item,reference_text,question_id
+1,동의 취득,yes_no,False,연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?,1-1-consent
+1,동의 취득,date_input,False,서면 동의일,1-2-consent_date
+2,선정기준,yes_no,False,,1-4
+2,선정기준,yes_no,False,,1-5
+2,제외기준,yes_no,False,,2-4
+2,제외기준,yes_no,False,,2-5
+6,병력,table_row,True,협심증 진단여부,1-1-angina
+6,병력,table_row,True,심근경색증 진단여부,1-2-myocardial_infarction
+6,병력,table_row,True,폐결핵 진단여부,1-3-tuberculosis
+6,병력,table_row,True,갑상선질환 진단여부,1-4-thyroid_disease
+6,병력,table_row,True,만성위염 진단여부,1-5-chronic_gastritis
+7,질병력,table_row,True,급성 간질환 진단여부,1-4-acute_seizure
+8,질병력,text_input,False,지방간 만_____ 세,1-2-fatty_liver_age
+8,질병력,multiple_choice,False,지방간 치료 여부,1-3-fatty_liver_treatment
+8,질병력,text_input,False,만성간염 만_____ 세,2-2-chronic_hepatitis_age
+8,질병력,multiple_choice,False,만성간염 치료 여부,2-3-chronic_hepatitis_treatment
+8,질병력,text_input,False,"담석증, 담낭염 만_____ 세",3-2-gallstones_age
+8,질병력,multiple_choice,False,"담석증, 담낭염 치료 여부",3-3-gallstones_treatment
+8,질병력,text_input,False,만성기관지염 만_____ 세,4-2-chronic_bronchitis_age
+8,질병력,multiple_choice,False,만성기관지염 치료 여부,4-3-chronic_bronchitis_treatment
+8,질병력,text_input,False,만성 폐쇄성 폐질환 만_____ 세,5-2-copd_age
+8,질병력,multiple_choice,False,만성 폐쇄성 폐질환 치료 여부,5-3-copd_treatment
+9,질병력,text_input,False,천식 만 나이,1-asthma-age
+9,질병력,text_input,False,기타 알레르기 만 나이,2-other_allergy-age
+9,질병력,text_input,False,통풍 만 나이,3-gout-age
+9,질병력,text_input,False,관절염 만 나이,4-arthritis-age
+10,질병력,table_row,True,골다공증 진단여부,1-1-osteoporosis
+10,질병력,text_input,False,골다공증 진단 연령,1-1-osteoporosis-age
+10,질병력,table_row,True,백내장 진단여부,1-2-cataract
+10,질병력,text_input,False,백내장 진단 연령,1-2-cataract-age
+10,질병력,table_row,True,녹내장 진단여부,1-3-glaucoma
+10,질병력,text_input,False,녹내장 진단 연령,1-3-glaucoma-age
+10,질병력,table_row,True,우울증 진단여부,1-4-depression
+10,질병력,text_input,False,우울증 진단 연령,1-4-depression-age
+11,질병력,text_input,False,치주병 발병 연령,1-1-periodontal_disease_age
+11,질병력,multiple_choice,False,치주병 치료 상태,1-1-periodontal_disease_treatment
+11,질병력,yes_no,False,치주병 여부 모름,1-1-periodontal_disease_unknown
+11,질병력,table_row,True,전립선비대증 진단여부,1-2-prostate_hyperplasia
+11,질병력,text_input,False,전립선비대증 발병 연령,1-2-prostate_hyperplasia_age
+11,질병력,multiple_choice,False,전립선비대증 치료 상태,1-2-prostate_hyperplasia_treatment
+11,질병력,text_input,False,악성종양 발병 연령,1-3-malignant_tumor_age
+11,질병력,multiple_choice,False,악성종양 치료 상태,1-3-malignant_tumor_treatment
+11,질병력,yes_no,False,악성종양 여부 모름,1-3-malignant_tumor_unknown
+11,질병력,text_input,False,골절 발병 연령,1-4-fracture_age
+11,질병력,multiple_choice,False,골절 치료 상태,1-4-fracture_treatment
+11,질병력,yes_no,False,골절 여부 모름,1-4-fracture_unknown
+13,가족력,single_choice,True,고지혈증 진단여부,1-1-hyperlipidemia
+13,가족력,single_choice,True,뇌졸중(중풍) 진단여부,1-2-stroke
+13,가족력,multiple_choice,False,가족 구성원,1-3-family_member
+13,가족력,text_input,False,만 몇 세,1-4-age
+14,병력,single_choice,False,갑상선질환 상태,3-2-thyroid_condition
+14,가족력,multiple_choice,False,"가족력 (부모, 형제, 자녀)",1-2-family_history
+14,가족력,text_input,False,가족력 만 ___세,1-3-age_family_history
+14,가족력,multiple_choice,False,"가족력 (부모, 형제, 자녀)",2-2-family_history_tuberculosis
+14,가족력,text_input,False,가족력 만 ___세,2-3-age_family_history_tuberculosis
+14,가족력,multiple_choice,False,"가족력 (부모, 형제, 자녀)",3-3-family_history_thyroid
+14,가족력,text_input,False,가족력 만 ___세,3-4-age_family_history_thyroid
+15,가족력,multiple_choice,False,형제자매의 성별을 선택해 주세요.,1-1-siblings
+15,가족력,text_input,False,가족의 만 몇 세입니까?,1-3-age_family
+15,인구학적특성,text_input,False,만 몇 세입니까?,1-2-age
+16,가족력,multiple_choice,False,악성종양 종류,1-1-malignant_tumor_1
+16,가족력,text_input,False,악성종양 만 나이,1-1-malignant_tumor_1_age
+16,가족력,multiple_choice,False,악성종양 종류,1-2-malignant_tumor_2
+16,가족력,text_input,False,악성종양 만 나이,1-2-malignant_tumor_2_age
+16,인구학적특성,text_input,False,귀하의 형제 관계는 어떻게 되십니까? (본인 포함),sibling_relationship
+17,우울증 선별도구,date_input,False,지난 한 달 동안 가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?,2-1-depression_period
+17,우울증 선별도구,scale,True,"기분이 가라앉거나, 우울하거나, 희망이 없다고 느꼈다",3-1-depression_scale_1
+17,우울증 선별도구,scale,True,평소 하던 일에 대한 흥미가 없어지거나 즐거움을 느끼지 못했다,3-2-depression_scale_2
+17,우울증 선별도구,scale,True,잠들기가 어렵거나 자주 깼다 / 혹은 너무 많이 잤다,3-3-depression_scale_3
+17,우울증 선별도구,scale,True,평소보다 식욕이 줄었다 / 혹은 평소보다 많이 먹었다,3-4-depression_scale_4
+17,우울증 선별도구,scale,True,다른 사람들이 눈치 챌 정도로 평소보다 말과 행동이 느려졌다 / 혹은 너무 안절부절 못해서 가만히 앉아있을 수 없었다,3-5-depression_scale_5
+17,우울증 선별도구,scale,True,피곤하고 기운이 없었다,3-6-depression_scale_6
+17,우울증 선별도구,scale,True,"내가 잘못 했거나, 실패했다는 생각이 들었다 / 혹은 자신과 가족을 실망시켰다고 생각했다",3-7-depression_scale_7
+17,우울증 선별도구,scale,True,신문을 읽거나 TV 를 보는 것과 같은 일상적인 일에도 집중할 수가 없었다,3-8-depression_scale_8
+17,우울증 선별도구,scale,True,차라리 죽는 것이 더 낫겠다고 생각했다 / 혹은 자해할 생각을 했다,3-9-depression_scale_9

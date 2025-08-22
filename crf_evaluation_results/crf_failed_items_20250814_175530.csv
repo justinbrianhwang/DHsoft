@@ -1,0 +1,75 @@
+﻿page,category,question_type,is_table_item,reference_text,question_id
+1,동의 취득,yes_no,False,연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?,1-consent
+1,동의 취득,date_input,False,서면 동의일,2-consent_date
+2,선정기준,yes_no,False,19세 이상 성인,eligibility-1
+2,선정기준,yes_no,False,Cerebrovascular disease 진단 여부,eligibility-2
+2,선정기준,yes_no,False,Cerebrovascular disease 가족력 여부,eligibility-3
+2,선정기준,yes_no,False,,eligibility-4
+2,선정기준,yes_no,False,,eligibility-5
+2,제외기준,yes_no,False,정신질환의 병력,exclusion-1
+2,제외기준,yes_no,False,두부 외상의 병력,exclusion-2
+2,제외기준,yes_no,False,암의 병력,exclusion-3
+2,제외기준,yes_no,False,,exclusion-4
+2,제외기준,yes_no,False,,exclusion-5
+2,평가,yes_no,False,연구대상자 선정기준 및 제외기준에 대한 평가 결과 이 지원자는 임상연구에 참여할 수 있습니까?,eligibility-evaluation
+3,인구학적특성,single_choice,False,성별,1-1-gender
+3,인구학적특성,date_input,False,생년월일,1-2-birthdate
+3,인구학적특성,text_input,False,체중,1-3-weight
+3,인구학적특성,text_input,False,신장,1-3-height
+3,인구학적특성,single_choice,False,흡연 여부,1-4-smoking_status
+3,인구학적특성,single_choice,False,음주 여부,1-5-drinking_status
+3,인구학적특성,single_choice,False,결혼 상태,1-6-marital_status
+4,인구학적특성,single_choice,False,월 평균 수입,7-1
+4,인구학적특성,single_choice,False,학력,8-1
+5,질병력,single_choice,True,고혈압 진단여부,2-1-hypertension
+5,질병력,text_input,True,고혈압 처음 진단받은 나이,2-1-hypertension-age
+5,질병력,single_choice,True,고혈압 치료 경과,2-1-hypertension-treatment
+5,질병력,single_choice,True,당뇨병 진단여부,2-2-diabetes
+5,질병력,text_input,True,당뇨병 처음 진단받은 나이,2-2-diabetes-age
+5,질병력,single_choice,True,당뇨병 치료 경과,2-2-diabetes-treatment
+5,질병력,single_choice,True,고지혈증 진단여부,2-3-hyperlipidemia
+5,질병력,text_input,True,고지혈증 처음 진단받은 나이,2-3-hyperlipidemia-age
+5,질병력,single_choice,True,고지혈증 치료 경과,2-3-hyperlipidemia-treatment
+5,질병력,single_choice,True,뇌졸중(중풍) 진단여부,2-4-stroke
+5,질병력,text_input,True,뇌졸중(중풍) 처음 진단받은 나이,2-4-stroke-age
+5,질병력,single_choice,True,뇌졸중(중풍) 치료 경과,2-4-stroke-treatment
+6,질병력,single_choice,True,협심증 또는 심근경색증 진단여부,6-1-angina
+6,질병력,text_input,True,협심증 또는 심근경색증 진단 시 나이,6-1-angina-age
+6,질병력,single_choice,True,협심증 또는 심근경색증 치료 상태,6-1-angina-treatment
+6,질병력,single_choice,True,폐결핵 진단여부,6-2-tuberculosis
+6,질병력,text_input,True,폐결핵 진단 시 나이,6-2-tuberculosis-age
+6,질병력,single_choice,True,폐결핵 치료 상태,6-2-tuberculosis-treatment
+6,질병력,single_choice,True,갑상선질환 진단여부,6-3-thyroid
+6,질병력,single_choice,True,갑상선질환 유형,6-3-thyroid-type
+6,질병력,text_input,True,갑상선질환 진단 시 나이,6-3-thyroid-age
+6,질병력,single_choice,True,갑상선질환 치료 상태,6-3-thyroid-treatment
+6,질병력,single_choice,True,만성위염 진단여부,6-4-gastritis
+6,질병력,text_input,True,만성위염 진단 시 나이,6-4-gastritis-age
+6,질병력,single_choice,True,만성위염 치료 상태,6-4-gastritis-treatment
+7,질병력,single_choice,True,위궤양 진단여부,7-1-peptic_ulcer_diagnosis
+7,질병력,text_input,True,위궤양 진단 시 나이,7-1-peptic_ulcer_age
+7,질병력,single_choice,True,위궤양 치료 상태,7-1-peptic_ulcer_treatment_status
+7,질병력,single_choice,True,십이지장궤양 진단여부,7-2-duodenal_ulcer_diagnosis
+7,질병력,text_input,True,십이지장궤양 진단 시 나이,7-2-duodenal_ulcer_age
+7,질병력,single_choice,True,십이지장궤양 치료 상태,7-2-duodenal_ulcer_treatment_status
+7,질병력,single_choice,True,장 폴립 진단여부,7-3-intestinal_polyp_diagnosis
+7,질병력,text_input,True,장 폴립 진단 시 나이,7-3-intestinal_polyp_age
+7,질병력,single_choice,True,장 폴립 치료 상태,7-3-intestinal_polyp_treatment_status
+7,질병력,single_choice,True,급성 간질환 진단여부,7-4-acute_epilepsy_diagnosis
+7,질병력,text_input,True,급성 간질환 진단 시 나이,7-4-acute_epilepsy_age
+7,질병력,single_choice,True,급성 간질환 치료 상태,7-4-acute_epilepsy_treatment_status
+8,질병력,single_choice,True,지방간 진단여부,8-1-fatty_liver_diagnosis
+8,질병력,text_input,True,지방간 진단 시 나이,8-1-fatty_liver_age
+8,질병력,single_choice,True,지방간 치료 상태,8-1-fatty_liver_treatment_status
+8,질병력,single_choice,True,"만성간염, 간경변 진단여부",8-2-chronic_hepatitis_cirrhosis_diagnosis
+8,질병력,text_input,True,"만성간염, 간경변 진단 시 나이",8-2-chronic_hepatitis_cirrhosis_age
+8,질병력,single_choice,True,"만성간염, 간경변 치료 상태",8-2-chronic_hepatitis_cirrhosis_treatment_status
+8,질병력,single_choice,True,"담석증, 담낭염 진단여부",8-3-gallstones_cholecystitis_diagnosis
+8,질병력,text_input,True,"담석증, 담낭염 진단 시 나이",8-3-gallstones_cholecystitis_age
+8,질병력,single_choice,True,"담석증, 담낭염 치료 상태",8-3-gallstones_cholecystitis_treatment_status
+8,질병력,single_choice,True,만성기관지염 진단여부,8-4-chronic_bronchitis_diagnosis
+8,질병력,text_input,True,만성기관지염 진단 시 나이,8-4-chronic_bronchitis_age
+8,질병력,single_choice,True,만성기관지염 치료 상태,8-4-chronic_bronchitis_treatment_status
+8,질병력,single_choice,True,만성 폐쇄성 폐질환 진단여부,8-5-copd_diagnosis
+8,질병력,text_input,True,만성 폐쇄성 폐질환 진단 시 나이,8-5-copd_age
+8,질병력,single_choice,True,만성 폐쇄성 폐질환 치료 상태,8-5-copd_treatment_status

@@ -1,0 +1,195 @@
+﻿page,category,matched,similarity,ref_question,ocr_question,question_type,is_table_item,ocr_only
+1,동의 취득,False,0.0,연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?,,yes_no,False,False
+1,동의 취득,False,0.0,서면 동의일,,date_input,False,False
+1,동의,False,0.0,,연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?,,False,True
+1,동의,False,0.0,,서면 동의일,,False,True
+2,선정기준,True,1.0,19세 이상 성인,19세 이상 성인,yes_no,False,False
+2,선정기준,True,1.0,Cerebrovascular disease 진단 여부,Cerebrovascular disease 진단 여부,yes_no,False,False
+2,선정기준,True,1.0,Cerebrovascular disease 가족력 여부,Cerebrovascular disease 가족력 여부,yes_no,False,False
+2,선정기준,False,0.0,,,yes_no,False,False
+2,선정기준,False,0.0,,,yes_no,False,False
+2,제외기준,True,1.0,정신질환의 병력,정신질환의 병력,yes_no,False,False
+2,제외기준,True,1.0,두부 외상의 병력,두부 외상의 병력,yes_no,False,False
+2,제외기준,True,1.0,암의 병력,암의 병력,yes_no,False,False
+2,제외기준,False,0.0,,,yes_no,False,False
+2,제외기준,False,0.0,,,yes_no,False,False
+2,연구대상자 평가,True,1.0,이 지원자는 임상연구에 참여할 수 있습니까?,이 지원자는 임상연구에 참여할 수 있습니까?,yes_no,False,False
+2,선정기준,False,0.0,,Unknown item 1,,False,True
+2,선정기준,False,0.0,,Unknown item 2,,False,True
+2,제외기준,False,0.0,,Unknown item 3,,False,True
+2,제외기준,False,0.0,,Unknown item 4,,False,True
+3,인구학적특성,True,1.0,성별,성별,single_choice,False,False
+3,인구학적특성,True,1.0,생년월일,생년월일,date_input,False,False
+3,인구학적특성,True,1.0,체중 및 신장,체중 및 신장,text_input,False,False
+3,인구학적특성,True,1.0,흡연 여부,흡연 여부,single_choice,False,False
+3,인구학적특성,True,1.0,음주 여부,음주 여부,single_choice,False,False
+3,인구학적특성,True,1.0,결혼 상태,결혼 상태,single_choice,False,False
+4,인구학적특성,True,1.0,월 평균 수입,월 평균 수입,multiple_choice,False,False
+4,인구학적특성,True,1.0,학력,학력,multiple_choice,False,False
+5,질병력,True,1.0,고혈압 진단여부,고혈압 진단여부,multiple_choice,True,False
+5,질병력,True,1.0,고혈압 처음 진단 받은 나이,고혈압 처음 진단 받은 나이,text_input,True,False
+5,질병력,True,1.0,고혈압 치료 경과,고혈압 치료 경과,multiple_choice,True,False
+5,질병력,True,1.0,당뇨병 진단여부,당뇨병 진단여부,multiple_choice,True,False
+5,질병력,True,1.0,당뇨병 처음 진단 받은 나이,당뇨병 처음 진단 받은 나이,text_input,True,False
+5,질병력,True,1.0,당뇨병 치료 경과,당뇨병 치료 경과,multiple_choice,True,False
+5,질병력,True,1.0,고지혈증 진단여부,고지혈증 진단여부,multiple_choice,True,False
+5,질병력,True,1.0,고지혈증 처음 진단 받은 나이,고지혈증 처음 진단 받은 나이,text_input,True,False
+5,질병력,True,1.0,고지혈증 치료 경과,고지혈증 치료 경과,multiple_choice,True,False
+5,질병력,True,1.0,뇌졸중(중풍) 진단여부,뇌졸중(중풍) 진단여부,multiple_choice,True,False
+5,질병력,True,0.8823529411764706,뇌졸중(중풍) 처음 진단 받은 나이,뇌졸중 처음 진단 받은 나이,text_input,True,False
+5,질병력,True,0.8181818181818182,뇌졸중(중풍) 치료 경과,뇌졸중 치료 경과,multiple_choice,True,False
+6,병력,False,0.0,협심증 진단여부,,table_row,True,False
+6,병력,False,0.0,심근경색증 진단여부,,table_row,True,False
+6,병력,False,0.0,폐결핵 진단여부,,table_row,True,False
+6,병력,False,0.0,갑상선질환 진단여부,,table_row,True,False
+6,병력,False,0.0,만성위염 진단여부,,table_row,True,False
+6,질병력,False,0.0,,고혈압 진단여부,,False,True
+6,질병력,False,0.0,,협심증 진단여부,,False,True
+6,질병력,False,0.0,,폐결핵 진단여부,,False,True
+6,질병력,False,0.0,,갑상선질환 진단여부,,False,True
+6,질병력,False,0.0,,만성위염 진단여부,,False,True
+7,질병력,True,1.0,위궤양 진단여부,위궤양 진단여부,table_row,True,False
+7,질병력,True,1.0,십이지장궤양 진단여부,십이지장궤양 진단여부,table_row,True,False
+7,질병력,True,1.0,장 폴립 진단여부,장 폴립 진단여부,table_row,True,False
+7,질병력,False,0.0,급성 간질환 진단여부,,table_row,True,False
+7,질병력,False,0.0,,급성 간질 진단여부,,False,True
+8,질병력,True,1.0,지방간 진단여부,지방간 진단여부,table_row,True,False
+8,질병력,False,0.0,지방간 만_____ 세,,text_input,False,False
+8,질병력,False,0.0,지방간 치료 여부,,multiple_choice,False,False
+8,질병력,True,1.0,만성간염 진단여부,만성간염 진단여부,table_row,True,False
+8,질병력,False,0.0,만성간염 만_____ 세,,text_input,False,False
+8,질병력,False,0.0,만성간염 치료 여부,,multiple_choice,False,False
+8,질병력,True,1.0,"담석증, 담낭염 진단여부","담석증, 담낭염 진단여부",table_row,True,False
+8,질병력,False,0.0,"담석증, 담낭염 만_____ 세",,text_input,False,False
+8,질병력,False,0.0,"담석증, 담낭염 치료 여부",,multiple_choice,False,False
+8,질병력,True,1.0,만성기관지염 진단여부,만성기관지염 진단여부,table_row,True,False
+8,질병력,False,0.0,만성기관지염 만_____ 세,,text_input,False,False
+8,질병력,False,0.0,만성기관지염 치료 여부,,multiple_choice,False,False
+8,질병력,True,1.0,만성 폐쇄성 폐질환 진단여부,만성 폐쇄성 폐질환 진단여부,table_row,True,False
+8,질병력,False,0.0,만성 폐쇄성 폐질환 만_____ 세,,text_input,False,False
+8,질병력,False,0.0,만성 폐쇄성 폐질환 치료 여부,,multiple_choice,False,False
+9,질병력,True,1.0,천식 진단여부,천식 진단여부,table_row,True,False
+9,질병력,False,0.0,천식 만 나이,,text_input,False,False
+9,질병력,True,1.0,기타 알레르기 진단여부,기타 알레르기 진단여부,table_row,True,False
+9,질병력,False,0.0,기타 알레르기 만 나이,,text_input,False,False
+9,질병력,True,1.0,통풍 진단여부,통풍 진단여부,table_row,True,False
+9,질병력,False,0.0,통풍 만 나이,,text_input,False,False
+9,질병력,True,1.0,관절염 진단여부,관절염 진단여부,table_row,True,False
+9,질병력,False,0.0,관절염 만 나이,,text_input,False,False
+10,질병력,False,0.0,골다공증 진단여부,,table_row,True,False
+10,질병력,False,0.0,골다공증 진단 연령,,text_input,False,False
+10,질병력,False,0.0,백내장 진단여부,,table_row,True,False
+10,질병력,False,0.0,백내장 진단 연령,,text_input,False,False
+10,질병력,False,0.0,녹내장 진단여부,,table_row,True,False
+10,질병력,False,0.0,녹내장 진단 연령,,text_input,False,False
+10,질병력,False,0.0,우울증 진단여부,,table_row,True,False
+10,질병력,False,0.0,우울증 진단 연령,,text_input,False,False
+10,병력,False,0.0,,골다공증 진단여부,,False,True
+10,병력,False,0.0,,백내장 진단여부,,False,True
+10,병력,False,0.0,,녹내장 진단여부,,False,True
+10,병력,False,0.0,,우울증 진단여부,,False,True
+11,질병력,True,1.0,치주병 진단여부,치주병 진단여부,table_row,True,False
+11,질병력,False,0.0,치주병 발병 연령,,text_input,False,False
+11,질병력,False,0.0,치주병 치료 상태,,multiple_choice,False,False
+11,질병력,False,0.0,치주병 여부 모름,,yes_no,False,False
+11,질병력,False,0.0,전립선비대증 진단여부,,table_row,True,False
+11,질병력,False,0.0,전립선비대증 발병 연령,,text_input,False,False
+11,질병력,False,0.0,전립선비대증 치료 상태,,multiple_choice,False,False
+11,질병력,True,0.7272727272727273,전립선비대증 여부 모름,전립선비대 진단여부,yes_no,False,False
+11,질병력,True,1.0,악성종양 진단여부,악성종양 진단여부,table_row,True,False
+11,질병력,False,0.0,악성종양 발병 연령,,text_input,False,False
+11,질병력,False,0.0,악성종양 치료 상태,,multiple_choice,False,False
+11,질병력,False,0.0,악성종양 여부 모름,,yes_no,False,False
+11,질병력,True,1.0,골절 진단여부,골절 진단여부,table_row,True,False
+11,질병력,False,0.0,골절 발병 연령,,text_input,False,False
+11,질병력,False,0.0,골절 치료 상태,,multiple_choice,False,False
+11,질병력,False,0.0,골절 여부 모름,,yes_no,False,False
+12,가족력,True,0.9811320754716981,직계 가족께서 병•의원에서 의사로부터 다음 질환을 진단받았거나 그로 인해 사망한 분이 있습니까?,직계 가족께서 병·의원에서 의사로부터 다음 질환을 진단받았거나 그로 인해 사망한 분이 있습니까?,multiple_choice,False,False
+12,가족력,True,1.0,질병명,질병명,text_input,False,False
+12,가족력,True,1.0,가족진단여부,가족진단여부,multiple_choice,False,False
+12,가족력,True,1.0,본인과의 관계,본인과의 관계,multiple_choice,False,False
+12,가족력,True,1.0,처음 진단 받은 나이,처음 진단 받은 나이,text_input,False,False
+12,가족력,True,1.0,고혈압 진단여부,고혈압 진단여부,multiple_choice,True,False
+12,가족력,True,1.0,당뇨병 진단여부,당뇨병 진단여부,multiple_choice,True,False
+13,가족력,False,0.0,고지혈증 진단여부,,single_choice,True,False
+13,가족력,False,0.0,뇌졸중(중풍) 진단여부,,single_choice,True,False
+13,가족력,False,0.0,가족 구성원,,multiple_choice,False,False
+13,가족력,False,0.0,만 몇 세,,text_input,False,False
+13,병력,False,0.0,,고지혈증 진단여부,,False,True
+13,병력,False,0.0,,뇌졸중(중풍) 진단여부,,False,True
+13,인구학적특성,False,0.0,,만 몇 세입니까?,,False,True
+13,가족력,False,0.0,,남자형제가 몇 명입니까?,,False,True
+13,가족력,False,0.0,,여자형제가 몇 명입니까?,,False,True
+13,가족력,False,0.0,,아들이 몇 명입니까?,,False,True
+13,가족력,False,0.0,,딸이 몇 명입니까?,,False,True
+14,병력,True,0.72,협심증 또는 심근경색 진단여부,심근경색 진단여부,single_choice,False,False
+14,병력,True,1.0,폐결핵 진단여부,폐결핵 진단여부,single_choice,False,False
+14,병력,True,1.0,갑상선질환 진단여부,갑상선질환 진단여부,single_choice,False,False
+14,병력,False,0.0,갑상선질환 상태,,single_choice,False,False
+14,가족력,False,0.0,"가족력 (부모, 형제, 자녀)",,multiple_choice,False,False
+14,가족력,False,0.0,가족력 만 ___세,,text_input,False,False
+14,가족력,False,0.0,"가족력 (부모, 형제, 자녀)",,multiple_choice,False,False
+14,가족력,False,0.0,가족력 만 ___세,,text_input,False,False
+14,가족력,False,0.0,"가족력 (부모, 형제, 자녀)",,multiple_choice,False,False
+14,가족력,False,0.0,가족력 만 ___세,,text_input,False,False
+14,병력,False,0.0,,협심증 진단여부,,False,True
+14,병력,False,0.0,,"갑상선 상태 (1항진, 2저하)",,False,True
+14,인구학적특성,False,0.0,,만 몇 세,,False,True
+14,인구학적특성,False,0.0,,만 몇 세,,False,True
+14,인구학적특성,False,0.0,,만 몇 세,,False,True
+14,가족력,False,0.0,,남자형제 수,,False,True
+14,가족력,False,0.0,,여자형제 수,,False,True
+14,가족력,False,0.0,,모름 여부,,False,True
+14,가족력,False,0.0,,아들 수,,False,True
+14,가족력,False,0.0,,딸 수,,False,True
+14,가족력,False,0.0,,남자형제 수,,False,True
+14,가족력,False,0.0,,여자형제 수,,False,True
+14,가족력,False,0.0,,아들 수,,False,True
+14,가족력,False,0.0,,딸 수,,False,True
+14,가족력,False,0.0,,남자형제 수,,False,True
+14,가족력,False,0.0,,여자형제 수,,False,True
+14,가족력,False,0.0,,아들 수,,False,True
+14,가족력,False,0.0,,딸 수,,False,True
+15,가족력,False,0.0,형제자매의 성별을 선택해 주세요.,,multiple_choice,False,False
+15,가족력,False,0.0,가족의 만 몇 세입니까?,,text_input,False,False
+15,인구학적특성,False,0.0,만 몇 세입니까?,,text_input,False,False
+15,병력,True,0.9473684210526315,만성위염 진단 여부,만성위염 진단여부,single_choice,False,False
+15,병력,True,0.9473684210526315,악성종양 진단 여부,악성종양 진단여부,single_choice,False,False
+15,가족력,False,0.0,,남자형제 수,,False,True
+15,가족력,False,0.0,,여자형제 수,,False,True
+15,가족력,False,0.0,,아들 수,,False,True
+15,가족력,False,0.0,,딸 수,,False,True
+15,인구학적특성,False,0.0,,나이,,False,True
+15,병력,False,0.0,,악성종양 종류,,False,True
+16,가족력,False,0.0,악성종양 종류,,multiple_choice,False,False
+16,가족력,False,0.0,악성종양 만 나이,,text_input,False,False
+16,가족력,False,0.0,악성종양 종류,,multiple_choice,False,False
+16,가족력,False,0.0,악성종양 만 나이,,text_input,False,False
+16,인구학적특성,False,0.0,귀하의 형제 관계는 어떻게 되십니까? (본인 포함),,text_input,False,False
+16,병력,False,0.0,,악성종양 여부,,False,True
+16,가족력,False,0.0,,귀하의 형제 관계는 어떻게 되십니까? (본인 포함),,False,True
+16,가족력,False,0.0,,형제 수,,False,True
+16,가족력,False,0.0,,남자형제 수,,False,True
+16,가족력,False,0.0,,여자형제 수,,False,True
+16,가족력,False,0.0,,모름,,False,True
+17,인구학적특성,True,1.0,귀하의 자녀는 몇 명입니까?,귀하의 자녀는 몇 명입니까?,text_input,False,False
+17,우울증 선별도구,False,0.0,지난 한 달 동안 가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?,,date_input,False,False
+17,우울증 선별도구,False,0.0,"기분이 가라앉거나, 우울하거나, 희망이 없다고 느꼈다",,scale,True,False
+17,우울증 선별도구,False,0.0,평소 하던 일에 대한 흥미가 없어지거나 즐거움을 느끼지 못했다,,scale,True,False
+17,우울증 선별도구,False,0.0,잠들기가 어렵거나 자주 깼다 / 혹은 너무 많이 잤다,,scale,True,False
+17,우울증 선별도구,False,0.0,평소보다 식욕이 줄었다 / 혹은 평소보다 많이 먹었다,,scale,True,False
+17,우울증 선별도구,False,0.0,다른 사람들이 눈치 챌 정도로 평소보다 말과 행동이 느려졌다 / 혹은 너무 안절부절 못해서 가만히 앉아있을 수 없었다,,scale,True,False
+17,우울증 선별도구,False,0.0,피곤하고 기운이 없었다,,scale,True,False
+17,우울증 선별도구,False,0.0,"내가 잘못 했거나, 실패했다는 생각이 들었다 / 혹은 자신과 가족을 실망시켰다고 생각했다",,scale,True,False
+17,우울증 선별도구,False,0.0,신문을 읽거나 TV 를 보는 것과 같은 일상적인 일에도 집중할 수가 없었다,,scale,True,False
+17,우울증 선별도구,False,0.0,차라리 죽는 것이 더 낫겠다고 생각했다 / 혹은 자해할 생각을 했다,,scale,True,False
+17,우울증,False,0.0,,가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?,,False,True
+17,우울증,False,0.0,,"기분이 가라앉거나, 우울하거나, 희망이 없다고 느꼈다",,False,True
+17,우울증,False,0.0,,평소 하던 일에 대한 흥미가 없어지거나 즐거움을 느끼지 못했다,,False,True
+17,우울증,False,0.0,,잠들기가 어렵거나 자주 깼다 / 혹은 너무 많이 잤다,,False,True
+17,우울증,False,0.0,,평소보다 식욕이 줄었다 / 혹은 평소보다 많이 먹었다,,False,True
+17,우울증,False,0.0,,다른 사람들이 눈치 챌 정도로 평소보다 말과 행동이 느려졌다,,False,True
+17,우울증,False,0.0,,피곤하고 기운이 없었다,,False,True
+17,우울증,False,0.0,,"내가 잘못했거나, 실패했다는 생각이 들었다 / 혹은 자신과 가족을 실망시켰다고 생각했다",,False,True
+17,우울증,False,0.0,,신문을 읽거나 TV를 보는 것과 같은 일상적인 일에도 집중할 수가 없었다,,False,True
+17,우울증,False,0.0,,차라리 죽는 것이 더 낫겠다고 생각했다 / 혹은 자해할 생각을 했다,,False,True

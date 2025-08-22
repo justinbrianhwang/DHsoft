@@ -1,0 +1,2981 @@
+{
+  "timestamp": "20250812_114120",
+  "statistics": {
+    "total_questions": 131,
+    "matched_questions": 56,
+    "match_rate": 42.74809160305343,
+    "avg_similarity": 0.9825656500751424,
+    "min_similarity": 0.72,
+    "max_similarity": 1.0,
+    "ocr_only_questions": 63,
+    "category_statistics": {
+      "동의 취득": {
+        "total": 2,
+        "matched": 0,
+        "similarities": [],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 0.0
+      },
+      "동의": {
+        "total": 0,
+        "matched": 0,
+        "similarities": [],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 0.0
+      },
+      "선정기준": {
+        "total": 5,
+        "matched": 3,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 1.0
+      },
+      "제외기준": {
+        "total": 5,
+        "matched": 3,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 1.0
+      },
+      "연구대상자 평가": {
+        "total": 1,
+        "matched": 1,
+        "similarities": [
+          1.0
+        ],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 1.0
+      },
+      "인구학적특성": {
+        "total": 11,
+        "matched": 9,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 1.0
+      },
+      "질병력": {
+        "total": 63,
+        "matched": 28,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8823529411764706,
+          0.8181818181818182,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.7272727272727273,
+          1.0,
+          1.0
+        ],
+        "table_items": 33,
+        "table_matched": 27,
+        "avg_similarity": 0.979564553093965
+      },
+      "병력": {
+        "total": 11,
+        "matched": 5,
+        "similarities": [
+          0.72,
+          1.0,
+          1.0,
+          0.9473684210526315,
+          0.9473684210526315
+        ],
+        "table_items": 5,
+        "table_matched": 0,
+        "avg_similarity": 0.9229473684210525
+      },
+      "가족력": {
+        "total": 23,
+        "matched": 7,
+        "similarities": [
+          0.9811320754716981,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "table_items": 4,
+        "table_matched": 2,
+        "avg_similarity": 0.9973045822102425
+      },
+      "우울증 선별도구": {
+        "total": 10,
+        "matched": 0,
+        "similarities": [],
+        "table_items": 9,
+        "table_matched": 0,
+        "avg_similarity": 0.0
+      },
+      "우울증": {
+        "total": 0,
+        "matched": 0,
+        "similarities": [],
+        "table_items": 0,
+        "table_matched": 0,
+        "avg_similarity": 0.0
+      }
+    },
+    "page_statistics": {
+      "1": {
+        "total": 2,
+        "matched": 0,
+        "similarities": []
+      },
+      "2": {
+        "total": 11,
+        "matched": 7,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "3": {
+        "total": 6,
+        "matched": 6,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "4": {
+        "total": 2,
+        "matched": 2,
+        "similarities": [
+          1.0,
+          1.0
+        ]
+      },
+      "5": {
+        "total": 12,
+        "matched": 12,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8823529411764706,
+          0.8181818181818182
+        ]
+      },
+      "6": {
+        "total": 5,
+        "matched": 0,
+        "similarities": []
+      },
+      "7": {
+        "total": 4,
+        "matched": 3,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "8": {
+        "total": 15,
+        "matched": 5,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "9": {
+        "total": 8,
+        "matched": 4,
+        "similarities": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "10": {
+        "total": 8,
+        "matched": 0,
+        "similarities": []
+      },
+      "11": {
+        "total": 16,
+        "matched": 4,
+        "similarities": [
+          1.0,
+          0.7272727272727273,
+          1.0,
+          1.0
+        ]
+      },
+      "12": {
+        "total": 7,
+        "matched": 7,
+        "similarities": [
+          0.9811320754716981,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "13": {
+        "total": 4,
+        "matched": 0,
+        "similarities": []
+      },
+      "14": {
+        "total": 10,
+        "matched": 3,
+        "similarities": [
+          0.72,
+          1.0,
+          1.0
+        ]
+      },
+      "15": {
+        "total": 5,
+        "matched": 2,
+        "similarities": [
+          0.9473684210526315,
+          0.9473684210526315
+        ]
+      },
+      "16": {
+        "total": 5,
+        "matched": 0,
+        "similarities": []
+      },
+      "17": {
+        "total": 11,
+        "matched": 1,
+        "similarities": [
+          1.0
+        ]
+      }
+    },
+    "type_statistics": {
+      "yes_no": {
+        "total": 16,
+        "matched": 8,
+        "avg_similarity": 0.0
+      },
+      "date_input": {
+        "total": 3,
+        "matched": 1,
+        "avg_similarity": 0.0
+      },
+      "single_choice": {
+        "total": 12,
+        "matched": 9,
+        "avg_similarity": 0.0
+      },
+      "text_input": {
+        "total": 34,
+        "matched": 8,
+        "avg_similarity": 0.0
+      },
+      "multiple_choice": {
+        "total": 31,
+        "matched": 15,
+        "avg_similarity": 0.0
+      },
+      "table_row": {
+        "total": 26,
+        "matched": 15,
+        "avg_similarity": 0.0
+      },
+      "scale": {
+        "total": 9,
+        "matched": 0,
+        "avg_similarity": 0.0
+      }
+    }
+  },
+  "matches": [
+    {
+      "page_number": 1,
+      "category": "동의 취득",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-consent",
+        "question_text": "연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 1,
+      "category": "동의 취득",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-consent_date",
+        "question_text": "서면 동의일",
+        "question_type": "date_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 1,
+      "category": "동의",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "연구대상자는 본 임상연구 참가에 앞서 서면 동의하였습니까?",
+        "ocr_confidence": 0.9899958333333334
+      }
+    },
+    {
+      "page_number": 1,
+      "category": "동의",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "서면 동의일",
+        "ocr_confidence": 0.9899958333333334
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1",
+        "question_text": "19세 이상 성인",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "19세 이상 성인",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2",
+        "question_text": "Cerebrovascular disease 진단 여부",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "Cerebrovascular disease 진단 여부",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3",
+        "question_text": "Cerebrovascular disease 가족력 여부",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "Cerebrovascular disease 가족력 여부",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4",
+        "question_text": "",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-5",
+        "question_text": "",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1",
+        "question_text": "정신질환의 병력",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "정신질환의 병력",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2",
+        "question_text": "두부 외상의 병력",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "두부 외상의 병력",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-3",
+        "question_text": "암의 병력",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "암의 병력",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-4",
+        "question_text": "",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-5",
+        "question_text": "",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "연구대상자 평가",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-1",
+        "question_text": "이 지원자는 임상연구에 참여할 수 있습니까?",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "이 지원자는 임상연구에 참여할 수 있습니까?",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "Unknown item 1",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "선정기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "Unknown item 2",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "Unknown item 3",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "제외기준",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "Unknown item 4",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-gender",
+        "question_text": "성별",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "성별",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-birthdate",
+        "question_text": "생년월일",
+        "question_type": "date_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "생년월일",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-weight_height",
+        "question_text": "체중 및 신장",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "체중 및 신장",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-smoking",
+        "question_text": "흡연 여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "흡연 여부",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-5-drinking",
+        "question_text": "음주 여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "음주 여부",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-6-marital_status",
+        "question_text": "결혼 상태",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "결혼 상태",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 4,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-7-income",
+        "question_text": "월 평균 수입",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "월 평균 수입",
+        "ocr_confidence": 0.9944067796610171
+      }
+    },
+    {
+      "page_number": 4,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-8-education",
+        "question_text": "학력",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "학력",
+        "ocr_confidence": 0.9944067796610171
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-hypertension",
+        "question_text": "고혈압 진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고혈압 진단여부",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-hypertension-age",
+        "question_text": "고혈압 처음 진단 받은 나이",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고혈압 처음 진단 받은 나이",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-hypertension-treatment",
+        "question_text": "고혈압 치료 경과",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고혈압 치료 경과",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2-diabetes",
+        "question_text": "당뇨병 진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "당뇨병 진단여부",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2-diabetes-age",
+        "question_text": "당뇨병 처음 진단 받은 나이",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "당뇨병 처음 진단 받은 나이",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2-diabetes-treatment",
+        "question_text": "당뇨병 치료 경과",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "당뇨병 치료 경과",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-3-hyperlipidemia",
+        "question_text": "고지혈증 진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고지혈증 진단여부",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-3-hyperlipidemia-age",
+        "question_text": "고지혈증 처음 진단 받은 나이",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고지혈증 처음 진단 받은 나이",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-3-hyperlipidemia-treatment",
+        "question_text": "고지혈증 치료 경과",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고지혈증 치료 경과",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-4-stroke",
+        "question_text": "뇌졸중(중풍) 진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "뇌졸중(중풍) 진단여부",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 0.8823529411764706,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-4-stroke-age",
+        "question_text": "뇌졸중(중풍) 처음 진단 받은 나이",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "뇌졸중 처음 진단 받은 나이",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 0.8181818181818182,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-4-stroke-treatment",
+        "question_text": "뇌졸중(중풍) 치료 경과",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "뇌졸중 치료 경과",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-angina",
+        "question_text": "협심증 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-myocardial_infarction",
+        "question_text": "심근경색증 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-tuberculosis",
+        "question_text": "폐결핵 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-thyroid_disease",
+        "question_text": "갑상선질환 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-5-chronic_gastritis",
+        "question_text": "만성위염 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "고혈압 진단여부",
+        "ocr_confidence": 0.9961739726027397
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "협심증 진단여부",
+        "ocr_confidence": 0.9961739726027397
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "폐결핵 진단여부",
+        "ocr_confidence": 0.9961739726027397
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "갑상선질환 진단여부",
+        "ocr_confidence": 0.9961739726027397
+      }
+    },
+    {
+      "page_number": 6,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "만성위염 진단여부",
+        "ocr_confidence": 0.9961739726027397
+      }
+    },
+    {
+      "page_number": 7,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-peptic_ulcer",
+        "question_text": "위궤양 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "위궤양 진단여부",
+        "ocr_confidence": 0.9938447761194031
+      }
+    },
+    {
+      "page_number": 7,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-duodenal_ulcer",
+        "question_text": "십이지장궤양 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "십이지장궤양 진단여부",
+        "ocr_confidence": 0.9938447761194031
+      }
+    },
+    {
+      "page_number": 7,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-colon_polyp",
+        "question_text": "장 폴립 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "장 폴립 진단여부",
+        "ocr_confidence": 0.9938447761194031
+      }
+    },
+    {
+      "page_number": 7,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-acute_seizure",
+        "question_text": "급성 간질환 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 7,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "급성 간질 진단여부",
+        "ocr_confidence": 0.9938447761194031
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-fatty_liver",
+        "question_text": "지방간 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "지방간 진단여부",
+        "ocr_confidence": 0.9922441558441558
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-fatty_liver_age",
+        "question_text": "지방간 만_____ 세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-fatty_liver_treatment",
+        "question_text": "지방간 치료 여부",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-chronic_hepatitis",
+        "question_text": "만성간염 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "만성간염 진단여부",
+        "ocr_confidence": 0.9922441558441558
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2-chronic_hepatitis_age",
+        "question_text": "만성간염 만_____ 세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-3-chronic_hepatitis_treatment",
+        "question_text": "만성간염 치료 여부",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-1-gallstones",
+        "question_text": "담석증, 담낭염 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "담석증, 담낭염 진단여부",
+        "ocr_confidence": 0.9922441558441558
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-2-gallstones_age",
+        "question_text": "담석증, 담낭염 만_____ 세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-3-gallstones_treatment",
+        "question_text": "담석증, 담낭염 치료 여부",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-1-chronic_bronchitis",
+        "question_text": "만성기관지염 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "만성기관지염 진단여부",
+        "ocr_confidence": 0.9922441558441558
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-2-chronic_bronchitis_age",
+        "question_text": "만성기관지염 만_____ 세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-3-chronic_bronchitis_treatment",
+        "question_text": "만성기관지염 치료 여부",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "5-1-copd",
+        "question_text": "만성 폐쇄성 폐질환 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "만성 폐쇄성 폐질환 진단여부",
+        "ocr_confidence": 0.9922441558441558
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "5-2-copd_age",
+        "question_text": "만성 폐쇄성 폐질환 만_____ 세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 8,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "5-3-copd_treatment",
+        "question_text": "만성 폐쇄성 폐질환 치료 여부",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-asthma",
+        "question_text": "천식 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "천식 진단여부",
+        "ocr_confidence": 0.996644
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-asthma-age",
+        "question_text": "천식 만 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-other_allergy",
+        "question_text": "기타 알레르기 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "기타 알레르기 진단여부",
+        "ocr_confidence": 0.996644
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-other_allergy-age",
+        "question_text": "기타 알레르기 만 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-gout",
+        "question_text": "통풍 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "통풍 진단여부",
+        "ocr_confidence": 0.996644
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-gout-age",
+        "question_text": "통풍 만 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-arthritis",
+        "question_text": "관절염 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "관절염 진단여부",
+        "ocr_confidence": 0.996644
+      }
+    },
+    {
+      "page_number": 9,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "4-arthritis-age",
+        "question_text": "관절염 만 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-osteoporosis",
+        "question_text": "골다공증 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-osteoporosis-age",
+        "question_text": "골다공증 진단 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-cataract",
+        "question_text": "백내장 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-cataract-age",
+        "question_text": "백내장 진단 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-glaucoma",
+        "question_text": "녹내장 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-glaucoma-age",
+        "question_text": "녹내장 진단 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-depression",
+        "question_text": "우울증 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-depression-age",
+        "question_text": "우울증 진단 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "골다공증 진단여부",
+        "ocr_confidence": 0.9930257575757577
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "백내장 진단여부",
+        "ocr_confidence": 0.9930257575757577
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "녹내장 진단여부",
+        "ocr_confidence": 0.9930257575757577
+      }
+    },
+    {
+      "page_number": 10,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "우울증 진단여부",
+        "ocr_confidence": 0.9930257575757577
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-periodontal_disease",
+        "question_text": "치주병 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "치주병 진단여부",
+        "ocr_confidence": 0.9951123076923076
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-periodontal_disease_age",
+        "question_text": "치주병 발병 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-periodontal_disease_treatment",
+        "question_text": "치주병 치료 상태",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-periodontal_disease_unknown",
+        "question_text": "치주병 여부 모름",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-prostate_hyperplasia",
+        "question_text": "전립선비대증 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-prostate_hyperplasia_age",
+        "question_text": "전립선비대증 발병 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-prostate_hyperplasia_treatment",
+        "question_text": "전립선비대증 치료 상태",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 0.7272727272727273,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-prostate_hyperplasia_unknown",
+        "question_text": "전립선비대증 여부 모름",
+        "question_type": "yes_no",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "전립선비대 진단여부",
+        "ocr_confidence": 0.9951123076923076
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-malignant_tumor",
+        "question_text": "악성종양 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "악성종양 진단여부",
+        "ocr_confidence": 0.9951123076923076
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-malignant_tumor_age",
+        "question_text": "악성종양 발병 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-malignant_tumor_treatment",
+        "question_text": "악성종양 치료 상태",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-malignant_tumor_unknown",
+        "question_text": "악성종양 여부 모름",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-fracture",
+        "question_text": "골절 진단여부",
+        "question_type": "table_row",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "골절 진단여부",
+        "ocr_confidence": 0.9951123076923076
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-fracture_age",
+        "question_text": "골절 발병 연령",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-fracture_treatment",
+        "question_text": "골절 치료 상태",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 11,
+      "category": "질병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-fracture_unknown",
+        "question_text": "골절 여부 모름",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 0.9811320754716981,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-1-family_history",
+        "question_text": "직계 가족께서 병•의원에서 의사로부터 다음 질환을 진단받았거나 그로 인해 사망한 분이 있습니까?",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "직계 가족께서 병·의원에서 의사로부터 다음 질환을 진단받았거나 그로 인해 사망한 분이 있습니까?",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-2-disease_name",
+        "question_text": "질병명",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "질병명",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-3-family_diagnosis",
+        "question_text": "가족진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "가족진단여부",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-4-relationship",
+        "question_text": "본인과의 관계",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "본인과의 관계",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-5-age_first_diagnosed",
+        "question_text": "처음 진단 받은 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "처음 진단 받은 나이",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-6-hypertension",
+        "question_text": "고혈압 진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "고혈압 진단여부",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-7-diabetes",
+        "question_text": "당뇨병 진단여부",
+        "question_type": "multiple_choice",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "당뇨병 진단여부",
+        "ocr_confidence": 0.9916684931506848
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-hyperlipidemia",
+        "question_text": "고지혈증 진단여부",
+        "question_type": "single_choice",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-stroke",
+        "question_text": "뇌졸중(중풍) 진단여부",
+        "question_type": "single_choice",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-family_member",
+        "question_text": "가족 구성원",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-4-age",
+        "question_text": "만 몇 세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "고지혈증 진단여부",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "뇌졸중(중풍) 진단여부",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "만 몇 세입니까?",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "남자형제가 몇 명입니까?",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "여자형제가 몇 명입니까?",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "아들이 몇 명입니까?",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 13,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "딸이 몇 명입니까?",
+        "ocr_confidence": 0.9897113636363636
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "병력",
+      "matched": true,
+      "similarity": 0.72,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-angina_myocardial_infarction",
+        "question_text": "협심증 또는 심근경색 진단여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "심근경색 진단여부",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-tuberculosis",
+        "question_text": "폐결핵 진단여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "폐결핵 진단여부",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "병력",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-1-thyroid_disease",
+        "question_text": "갑상선질환 진단여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "갑상선질환 진단여부",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-2-thyroid_condition",
+        "question_text": "갑상선질환 상태",
+        "question_type": "single_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-family_history",
+        "question_text": "가족력 (부모, 형제, 자녀)",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-age_family_history",
+        "question_text": "가족력 만 ___세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2-family_history_tuberculosis",
+        "question_text": "가족력 (부모, 형제, 자녀)",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-3-age_family_history_tuberculosis",
+        "question_text": "가족력 만 ___세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-3-family_history_thyroid",
+        "question_text": "가족력 (부모, 형제, 자녀)",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-4-age_family_history_thyroid",
+        "question_text": "가족력 만 ___세",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "협심증 진단여부",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "갑상선 상태 (1항진, 2저하)",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "만 몇 세",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "만 몇 세",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "만 몇 세",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "남자형제 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "여자형제 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "모름 여부",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "아들 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "딸 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "남자형제 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "여자형제 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "아들 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "딸 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "남자형제 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "여자형제 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "아들 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 14,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "딸 수",
+        "ocr_confidence": 0.9861963636363635
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-siblings",
+        "question_text": "형제자매의 성별을 선택해 주세요.",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-3-age_family",
+        "question_text": "가족의 만 몇 세입니까?",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-age",
+        "question_text": "만 몇 세입니까?",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "병력",
+      "matched": true,
+      "similarity": 0.9473684210526315,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-chronic_gastritis",
+        "question_text": "만성위염 진단 여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "만성위염 진단여부",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "병력",
+      "matched": true,
+      "similarity": 0.9473684210526315,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-2-malignant_tumor",
+        "question_text": "악성종양 진단 여부",
+        "question_type": "single_choice",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "악성종양 진단여부",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "남자형제 수",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "여자형제 수",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "아들 수",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "딸 수",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "나이",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 15,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "악성종양 종류",
+        "ocr_confidence": 0.9901020833333334
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-malignant_tumor_1",
+        "question_text": "악성종양 종류",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-malignant_tumor_1_age",
+        "question_text": "악성종양 만 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-malignant_tumor_2",
+        "question_text": "악성종양 종류",
+        "question_type": "multiple_choice",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-2-malignant_tumor_2_age",
+        "question_text": "악성종양 만 나이",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "인구학적특성",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "sibling_relationship",
+        "question_text": "귀하의 형제 관계는 어떻게 되십니까? (본인 포함)",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "병력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "악성종양 여부",
+        "ocr_confidence": 0.9784399999999999
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "귀하의 형제 관계는 어떻게 되십니까? (본인 포함)",
+        "ocr_confidence": 0.9784399999999999
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "형제 수",
+        "ocr_confidence": 0.9784399999999999
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "남자형제 수",
+        "ocr_confidence": 0.9784399999999999
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "여자형제 수",
+        "ocr_confidence": 0.9784399999999999
+      }
+    },
+    {
+      "page_number": 16,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "모름",
+        "ocr_confidence": 0.9784399999999999
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 1.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "1-1-children_count",
+        "question_text": "귀하의 자녀는 몇 명입니까?",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "귀하의 자녀는 몇 명입니까?",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "2-1-depression_period",
+        "question_text": "지난 한 달 동안 가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?",
+        "question_type": "date_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-1-depression_scale_1",
+        "question_text": "기분이 가라앉거나, 우울하거나, 희망이 없다고 느꼈다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-2-depression_scale_2",
+        "question_text": "평소 하던 일에 대한 흥미가 없어지거나 즐거움을 느끼지 못했다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-3-depression_scale_3",
+        "question_text": "잠들기가 어렵거나 자주 깼다 / 혹은 너무 많이 잤다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-4-depression_scale_4",
+        "question_text": "평소보다 식욕이 줄었다 / 혹은 평소보다 많이 먹었다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-5-depression_scale_5",
+        "question_text": "다른 사람들이 눈치 챌 정도로 평소보다 말과 행동이 느려졌다 / 혹은 너무 안절부절 못해서 가만히 앉아있을 수 없었다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-6-depression_scale_6",
+        "question_text": "피곤하고 기운이 없었다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-7-depression_scale_7",
+        "question_text": "내가 잘못 했거나, 실패했다는 생각이 들었다 / 혹은 자신과 가족을 실망시켰다고 생각했다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-8-depression_scale_8",
+        "question_text": "신문을 읽거나 TV 를 보는 것과 같은 일상적인 일에도 집중할 수가 없었다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증 선별도구",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "3-9-depression_scale_9",
+        "question_text": "차라리 죽는 것이 더 낫겠다고 생각했다 / 혹은 자해할 생각을 했다",
+        "question_type": "scale",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "기분이 가라앉거나, 우울하거나, 희망이 없다고 느꼈다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "평소 하던 일에 대한 흥미가 없어지거나 즐거움을 느끼지 못했다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "잠들기가 어렵거나 자주 깼다 / 혹은 너무 많이 잤다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "평소보다 식욕이 줄었다 / 혹은 평소보다 많이 먹었다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "다른 사람들이 눈치 챌 정도로 평소보다 말과 행동이 느려졌다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "피곤하고 기운이 없었다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "내가 잘못했거나, 실패했다는 생각이 들었다 / 혹은 자신과 가족을 실망시켰다고 생각했다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "신문을 읽거나 TV를 보는 것과 같은 일상적인 일에도 집중할 수가 없었다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "차라리 죽는 것이 더 낫겠다고 생각했다 / 혹은 자해할 생각을 했다",
+        "ocr_confidence": 0.9965817679558011
+      }
+    }
+  ],
+  "reference_question_count": 131,
+  "ocr_question_count": 119
+}

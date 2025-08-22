@@ -1,8 +1,0 @@
-{
-  "boolean": 0,
-  "string": 1,
-  "integer": 2,
-  "float": 3,
-  "checkbox_single": 4,
-  "checkbox_multi": 5
-}

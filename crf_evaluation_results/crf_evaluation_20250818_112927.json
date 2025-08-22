@@ -1,0 +1,904 @@
+{
+  "timestamp": "20250818_112927",
+  "statistics": {
+    "total_questions": 22,
+    "matched_questions": 18,
+    "match_rate": 81.81818181818183,
+    "avg_similarity": 0.8306680110801538,
+    "min_similarity": 0.6204696969696969,
+    "max_similarity": 0.9339999999999999,
+    "avg_cer": 0.10078694215619405,
+    "avg_wer": 0.1331168831168831,
+    "avg_accuracy": 0.842725461325324,
+    "avg_gpt_confidence": 0.82,
+    "ocr_only_questions": 3,
+    "category_statistics": {
+      "null": {
+        "total": 17,
+        "matched": 15,
+        "similarities": [
+          0.8010570824524312,
+          0.8026052631578947,
+          0.8775,
+          0.8739999999999999,
+          0.6208333333333333,
+          0.8634999999999999,
+          0.8634999999999999,
+          0.867,
+          0.6420588235294118,
+          0.6204696969696969,
+          0.8634999999999999,
+          0.8634999999999999,
+          0.8634999999999999,
+          0.8739999999999999,
+          0.8634999999999999
+        ],
+        "table_items": 5,
+        "table_matched": 5,
+        "cers": [
+          0.0851063829787234,
+          0.0967741935483871,
+          0.0,
+          0.0,
+          0.8181818181818182,
+          0.0,
+          0.0,
+          0.0,
+          0.4807692307692308,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "wers": [
+          0.18181818181818182,
+          0.21428571428571427,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "accs": [
+          0.44680851063829785,
+          0.3709677419354839,
+          1.0,
+          1.0,
+          0.55,
+          1.0,
+          1.0,
+          1.0,
+          0.1346153846153846,
+          0.6666666666666666,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "gpts": [
+          0.4,
+          0.7,
+          1.0,
+          1.0
+        ],
+        "avg_similarity": 0.8107016132961846,
+        "avg_cer": 0.12094433058743286,
+        "avg_wer": 0.15974025974025974,
+        "avg_accuracy": 0.8112705535903889,
+        "avg_gpt_confidence": 0.775
+      },
+      "가족력": {
+        "total": 2,
+        "matched": 1,
+        "similarities": [
+          0.9339999999999999
+        ],
+        "table_items": 2,
+        "table_matched": 1,
+        "cers": [
+          0.0
+        ],
+        "wers": [
+          0.0
+        ],
+        "accs": [
+          1.0
+        ],
+        "gpts": [],
+        "avg_similarity": 0.9339999999999999,
+        "avg_cer": 0.0,
+        "avg_wer": 0.0,
+        "avg_accuracy": 1.0,
+        "avg_gpt_confidence": 0.0
+      },
+      "인구학적특성": {
+        "total": 1,
+        "matched": 1,
+        "similarities": [
+          0.9339999999999999
+        ],
+        "table_items": 0,
+        "table_matched": 0,
+        "cers": [
+          0.0
+        ],
+        "wers": [
+          0.0
+        ],
+        "accs": [
+          1.0
+        ],
+        "gpts": [
+          1.0
+        ],
+        "avg_similarity": 0.9339999999999999,
+        "avg_cer": 0.0,
+        "avg_wer": 0.0,
+        "avg_accuracy": 1.0,
+        "avg_gpt_confidence": 1.0
+      },
+      "질병력": {
+        "total": 1,
+        "matched": 1,
+        "similarities": [
+          0.9235
+        ],
+        "table_items": 1,
+        "table_matched": 1,
+        "cers": [
+          0.0
+        ],
+        "wers": [
+          0.0
+        ],
+        "accs": [
+          1.0
+        ],
+        "gpts": [],
+        "avg_similarity": 0.9235,
+        "avg_cer": 0.0,
+        "avg_wer": 0.0,
+        "avg_accuracy": 1.0,
+        "avg_gpt_confidence": 0.0
+      },
+      "우울증선별": {
+        "total": 1,
+        "matched": 0,
+        "similarities": [],
+        "table_items": 0,
+        "table_matched": 0,
+        "cers": [],
+        "wers": [],
+        "accs": [],
+        "gpts": [],
+        "avg_similarity": 0.0,
+        "avg_cer": 0.0,
+        "avg_wer": 0.0,
+        "avg_accuracy": 0.0,
+        "avg_gpt_confidence": 0.0
+      }
+    },
+    "page_statistics": {
+      "1": {
+        "total": 2,
+        "matched": 2,
+        "similarities": [
+          0.8010570824524312,
+          0.8026052631578947
+        ],
+        "cers": [
+          0.0851063829787234,
+          0.0967741935483871
+        ],
+        "wers": [
+          0.18181818181818182,
+          0.21428571428571427
+        ],
+        "accs": [
+          0.44680851063829785,
+          0.3709677419354839
+        ],
+        "gpts": [
+          0.4
+        ]
+      },
+      "2": {
+        "total": 6,
+        "matched": 6,
+        "similarities": [
+          0.8775,
+          0.8739999999999999,
+          0.9339999999999999,
+          0.6208333333333333,
+          0.8634999999999999,
+          0.8634999999999999
+        ],
+        "cers": [
+          0.0,
+          0.0,
+          0.0,
+          0.8181818181818182,
+          0.0,
+          0.0
+        ],
+        "wers": [
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "accs": [
+          1.0,
+          1.0,
+          1.0,
+          0.55,
+          1.0,
+          1.0
+        ],
+        "gpts": [
+          0.7
+        ]
+      },
+      "3": {
+        "total": 7,
+        "matched": 7,
+        "similarities": [
+          0.9339999999999999,
+          0.867,
+          0.6420588235294118,
+          0.6204696969696969,
+          0.8634999999999999,
+          0.8634999999999999,
+          0.8634999999999999
+        ],
+        "cers": [
+          0.0,
+          0.0,
+          0.4807692307692308,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "wers": [
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "accs": [
+          1.0,
+          1.0,
+          0.1346153846153846,
+          0.6666666666666666,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "gpts": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "4": {
+        "total": 2,
+        "matched": 2,
+        "similarities": [
+          0.8739999999999999,
+          0.8634999999999999
+        ],
+        "cers": [
+          0.0,
+          0.0
+        ],
+        "wers": [
+          0.0,
+          0.0
+        ],
+        "accs": [
+          1.0,
+          1.0
+        ],
+        "gpts": []
+      },
+      "5": {
+        "total": 1,
+        "matched": 1,
+        "similarities": [
+          0.9235
+        ],
+        "cers": [
+          0.0
+        ],
+        "wers": [
+          0.0
+        ],
+        "accs": [
+          1.0
+        ],
+        "gpts": []
+      },
+      "12": {
+        "total": 1,
+        "matched": 0,
+        "similarities": [],
+        "cers": [],
+        "wers": [],
+        "accs": [],
+        "gpts": []
+      },
+      "17": {
+        "total": 3,
+        "matched": 0,
+        "similarities": [],
+        "cers": [],
+        "wers": [],
+        "accs": [],
+        "gpts": []
+      }
+    },
+    "type_statistics": {
+      "text_input": {
+        "total": 20,
+        "matched": 18,
+        "avg_similarity": 0.0,
+        "cers": [
+          0.0851063829787234,
+          0.0967741935483871,
+          0.0,
+          0.0,
+          0.0,
+          0.8181818181818182,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4807692307692308,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "wers": [
+          0.18181818181818182,
+          0.21428571428571427,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "accs": [
+          0.44680851063829785,
+          0.3709677419354839,
+          1.0,
+          1.0,
+          1.0,
+          0.55,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.1346153846153846,
+          0.6666666666666666,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "gpts": [
+          0.4,
+          0.7,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "yes_no": {
+        "total": 1,
+        "matched": 0,
+        "avg_similarity": 0.0,
+        "cers": [],
+        "wers": [],
+        "accs": [],
+        "gpts": []
+      },
+      "scale": {
+        "total": 1,
+        "matched": 0,
+        "avg_similarity": 0.0,
+        "cers": [],
+        "wers": [],
+        "accs": [],
+        "gpts": []
+      }
+    }
+  },
+  "matches": [
+    {
+      "page_number": 1,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8010570824524312,
+      "ocr_only": false,
+      "cer": 0.0851063829787234,
+      "wer": 0.18181818181818182,
+      "accuracy": 0.44680851063829785,
+      "gpt_confidence": 0.4,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "a. 연구대상자동의서를 받기 이전에는 본 연구의 어떠한 절차도 시작되어서는 안 된다.",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "a. 연구대상자동의서를 받기 이전에는 연구의 어떠한 절차도 시작되어서는 된다.",
+        "ocr_confidence": 0.9899958333333334
+      }
+    },
+    {
+      "page_number": 1,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8026052631578947,
+      "ocr_only": false,
+      "cer": 0.0967741935483871,
+      "wer": 0.21428571428571427,
+      "accuracy": 0.3709677419354839,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "b. Previous medication 은 동의서 취득 전 1 개월 이내에 사용한 약물만을 조사하여 기록한다.",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "b. Previous medication 동의서 취득 개월 이내에 사용한 약물만을 조사하여 기록한다.",
+        "ocr_confidence": 0.9899958333333334
+      }
+    },
+    {
+      "page_number": 1,
+      "category": null,
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "c. 이상반응은 시험관련 절차(즉 연구대상자동의서 서명일) 이후부터 마지막 평가일 까지 조사한다",
+        "ocr_confidence": 0.9899958333333334
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8775,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "1. 19세 이상 성인",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "1. 19세 이상 성인",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8739999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "2. Cerebrovascular disease 진단 여부",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "2. Cerebrovascular disease 진단 여부",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": "가족력",
+      "matched": true,
+      "similarity": 0.9339999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "가족력_1",
+        "question_text": "3. Cerebrovascular disease 가족력 여부",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "3. Cerebrovascular disease 가족력 여부",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": true,
+      "similarity": 0.6208333333333333,
+      "ocr_only": false,
+      "cer": 0.8181818181818182,
+      "wer": 1.0,
+      "accuracy": 0.55,
+      "gpt_confidence": 0.7,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "1. 정신질환의 병력",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "1. 정신질환의 병력 Yes , No",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8634999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "2. 두부 외상의 병력",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "2. 두부 외상의 병력",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8634999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "3. 암의 병력",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "3. 암의 병력",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "5. Yes No",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 2,
+      "category": null,
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": true,
+      "ocr": {
+        "question_text": "5. Yes , No",
+        "ocr_confidence": 0.9971271604938272
+      }
+    },
+    {
+      "page_number": 3,
+      "category": "인구학적특성",
+      "matched": true,
+      "similarity": 0.9339999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "gpt_confidence": 1.0,
+      "reference": {
+        "question_id": "인구학적특성_1",
+        "question_text": "1. 일반인구학적 특성",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "1. 일반인구학적 특성",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": null,
+      "matched": true,
+      "similarity": 0.867,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "1) 성별: 1남성 2여성",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "1) 성별: 1남성 2여성",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": null,
+      "matched": true,
+      "similarity": 0.6420588235294118,
+      "ocr_only": false,
+      "cer": 0.4807692307692308,
+      "wer": 0.6666666666666666,
+      "accuracy": 0.1346153846153846,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "2) 생년월일 : <BLANK> | / <BLANK> | / <BLANK> | yy/mm/dd",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "2) 생년월일: / <BLANK> yy/mm/dd",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": null,
+      "matched": true,
+      "similarity": 0.6204696969696969,
+      "ocr_only": false,
+      "cer": 0.3333333333333333,
+      "wer": 0.3333333333333333,
+      "accuracy": 0.6666666666666666,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "3) 체중: cm",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "3) 체중:",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8634999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "4) 흡연 여부",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "4) 흡연 여부",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8634999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "gpt_confidence": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "5) 음주 여부",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "5) 음주 여부",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 3,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8634999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "gpt_confidence": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "6) 결혼 상태",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "6) 결혼 상태",
+        "ocr_confidence": 0.9907303571428573
+      }
+    },
+    {
+      "page_number": 4,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8739999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "7) 월 평균 수입",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "7) 월 평균 수입",
+        "ocr_confidence": 0.9944067796610171
+      }
+    },
+    {
+      "page_number": 4,
+      "category": null,
+      "matched": true,
+      "similarity": 0.8634999999999999,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "8) 학력",
+        "question_type": "text_input",
+        "is_table_item": false
+      },
+      "ocr": {
+        "question_text": "8) 학력",
+        "ocr_confidence": 0.9944067796610171
+      }
+    },
+    {
+      "page_number": 5,
+      "category": "질병력",
+      "matched": true,
+      "similarity": 0.9235,
+      "ocr_only": false,
+      "cer": 0.0,
+      "wer": 0.0,
+      "accuracy": 1.0,
+      "reference": {
+        "question_id": "질병력_1",
+        "question_text": "2. 질병력",
+        "question_type": "text_input",
+        "is_table_item": true
+      },
+      "ocr": {
+        "question_text": "2. 질병력",
+        "ocr_confidence": 0.9950299999999999
+      }
+    },
+    {
+      "page_number": 12,
+      "category": "가족력",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "가족력_1",
+        "question_text": "3. 가족력",
+        "question_type": "text_input",
+        "is_table_item": true
+      }
+    },
+    {
+      "page_number": 17,
+      "category": "우울증선별",
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "우울증선별_1",
+        "question_text": "4. 우울증 선별도구 (PHQ-9)",
+        "question_type": "text_input",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 17,
+      "category": null,
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "지난 한 달 동안 가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?",
+        "question_type": "yes_no",
+        "is_table_item": false
+      }
+    },
+    {
+      "page_number": 17,
+      "category": null,
+      "matched": false,
+      "similarity": 0.0,
+      "ocr_only": false,
+      "reference": {
+        "question_id": "auto_1",
+        "question_text": "2-6일 7일 거의",
+        "question_type": "scale",
+        "is_table_item": false
+      }
+    }
+  ],
+  "reference_question_count": 22,
+  "ocr_question_count": 21
+}

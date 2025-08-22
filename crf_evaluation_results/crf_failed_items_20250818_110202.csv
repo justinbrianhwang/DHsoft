@@ -1,0 +1,8 @@
+﻿page,category,question_type,is_table_item,reference_text,question_id
+2,선정기준,yes_no,False,,eligibility-4
+2,선정기준,yes_no,False,,eligibility-5
+2,제외기준,yes_no,False,,exclusion-4
+2,제외기준,yes_no,False,,exclusion-5
+2,평가,yes_no,False,연구대상자 선정기준 및 제외기준에 대한 평가 결과 이 지원자는 임상연구에 참여할 수 있습니까?,eligibility-evaluation
+6,질병력,text_input,True,협심증 또는 심근경색증 진단 시 나이,6-1-angina_age
+8,질병력,text_input,True,"만성간염, 간경변 진단 시 나이",8-2-chronic_hepatitis_cirrhosis_age

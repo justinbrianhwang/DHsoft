@@ -1,0 +1,5 @@
+﻿page,category,question_type,is_table_item,reference_text,question_id
+12,가족력,text_input,True,3. 가족력,가족력_1
+17,우울증선별,text_input,False,4. 우울증 선별도구 (PHQ-9),우울증선별_1
+17,,yes_no,False,지난 한 달 동안 가장 우울했던 2주동안을 생각해 보십시오. 그 때가 언제입니까?,auto_1
+17,,scale,False,2-6일 7일 거의,auto_1
