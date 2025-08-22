@@ -4,7 +4,8 @@ This project implements a **question-based OCR evaluation pipeline** specificall
 
 ## Project Overview
 
-![OCR Evaluation Pipeline](https://github.com/user-attachments/assets/example-pipeline-diagram.png)
+<img width="196" height="51" alt="image" src="https://github.com/user-attachments/assets/8c531d07-2447-4c70-aa94-adef522e1f5c" />
+
 
 - **Project Name**: Medical CRF Question-Based OCR Evaluator
 - **Research Focus**: Layout-aware OCR evaluation for structured medical forms
